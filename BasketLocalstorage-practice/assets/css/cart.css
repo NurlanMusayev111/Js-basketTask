@@ -1,0 +1,37 @@
+.shop-card{
+    color: green;
+    font-size: 30px;
+    float: right;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+
+.count{
+    float: right;
+    color: green;
+}
+
+
+#navbar h2{
+    margin-top: 60px;
+}
+
+
+.delete{
+    color: red;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.input{
+    width: 50px;
+}
+
+.minus{
+    border: none;
+}
+
+.plus{
+    border: none;
+}

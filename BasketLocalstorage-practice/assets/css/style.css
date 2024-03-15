@@ -1,0 +1,24 @@
+.shop-card{
+    color: green;
+    font-size: 30px;
+    float: right;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+
+.count{
+    float: right;
+    color: green;
+}
+
+
+#shopping{
+    margin-top: 100px;
+}
+
+
+.product-price{
+    font-size: 20px;
+    font-weight: 700;
+}
